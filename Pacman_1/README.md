@@ -1,0 +1,2 @@
+This program will be built in two parts (Assignment 1 and Assignment 2), with Assignment 1 building the groundwork for the final system in Assignment 2.  
+In a1, we will build an initial system implementation based on what we've learned about object-oriented programming so far. In a2, we will extend the system with additional features, and also refactor existing features with newly learned Object Oriented Programming concepts, to make our code more elegant.  
