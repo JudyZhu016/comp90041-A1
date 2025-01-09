@@ -1,2 +1,0 @@
-HEALTHFREAK,PODCAST,pod_health
-DAILY Shorts,SHORTCLIP,short_daily
